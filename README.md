@@ -1,4 +1,4 @@
-Named Entity - Shared Intelligence
+Shared Intelligence - Named Entity
 ==================================
 
 <p>Differential AI</p>
